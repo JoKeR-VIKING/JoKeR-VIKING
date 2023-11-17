@@ -5,7 +5,7 @@
 ## 🌐 Profile Links:
 [![Leetcode](https://cp-logo.vercel.app/leetcode/JoKeR_VIKING?logo=true)](https://leetcode.com/JoKeR_VIKING)
 [![Codechef](https://cp-logo.vercel.app/codechef/pratham_joker?logo=true)](https://www.codechef.com/users/pratham_joker)
-[![Codeforces](https://lh3.googleusercontent.com/WsR_f03nbqW3qZjCZeXUYmnmhSWXo3hQhLX9hgl9QHydCgbXQi_VJeAwnmtuIgTHKdQ)](https://codeforces.com/profile/prathamvasani1)
+[![Codeforces](https://badges.joonhyung.xyz/codeforces/prathamvasani1.svg)](https://codeforces.com/profile/prathamvasani1)
 [![Instagram](https://img.shields.io/badge/Instagram-%?logo=Instagram&logoColor=white)](https://instagram.com/prathamvasani) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratham-vasani-a07263202) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/pratham-vasani) 
